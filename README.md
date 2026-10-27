@@ -4,7 +4,7 @@ Upload a photo or PDF of a receipt, and a local AI model reads it, turns it into
 
 **Everything runs on your own computer.** No cloud AI service is used, so receipts and spending data never leave your machine.
 
-> **Demo:** _add a GIF or short video here (upload a receipt → review a flag → ask a question by voice → dashboard)._
+
 
 ---
 
