@@ -1,0 +1,12 @@
+# Virtual environment (others recreate it from requirements.txt)
+expTracker/
+
+# Python's temporary files
+__pycache__/
+
+# Personal data: never upload
+expenses.db
+receipts/*
+!receipts/.gitkeep
+*.wav
+*.m4a
